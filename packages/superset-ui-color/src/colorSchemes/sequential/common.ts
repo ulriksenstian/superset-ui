@@ -50,6 +50,12 @@ const schemes = [
     colors: ['#d7191c', '#fdae61', '#ffffbf', '#abd9e9', '#2c7bb6'],
   },
   {
+    id: 'blue_yellow_red',
+    label: 'blue/yellow/red',
+    isDiverging: true,
+    colors: ['#2c7bb6', '#abd9e9', '#ffffbf', '#fdae61', '#d7191c'],
+  },
+  {
     id: 'brown_white_green',
     label: 'brown/white/green',
     isDiverging: true,
